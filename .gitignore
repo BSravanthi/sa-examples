@@ -8,3 +8,6 @@ CMakeScripts
 Makefile
 cmake_install.cmake
 install_manifest.txt
+
+cov-analysis-linux64-7.7.0.4
+cov-int
